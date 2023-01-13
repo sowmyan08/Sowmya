@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SharmiliSowmya
+- 👋 Hi, I’m @Sowmya
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Big Data concepts
 - 💞️ I’m looking to collaborate on Python projects
